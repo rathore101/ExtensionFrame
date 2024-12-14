@@ -4,7 +4,7 @@ import App from "./App";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <div className="w-[650px]">
+    <div className="w-[600px]">
       <App />
     </div>
   </React.StrictMode>
