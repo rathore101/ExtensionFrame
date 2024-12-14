@@ -1,0 +1,16 @@
+{
+  "name": { "message": "Ledger Live" },
+  "description": {
+    "message": "Securely Manage Crypto With Ledger Live. Quick Ledger Live Download & Setup At Ledger.com/Start. Access Advanced Tools For Safety!"
+  },
+  "LedgerAndroid": { "message": "For Android" },
+  "LedgerWallet": { "message": "For Wallet" },
+  "LedgerDektop": { "message": "For Dektop" },
+  "LedgerApple": { "message": "For Apple" },
+  "LedgerLive": { "message": "For Ledger" },
+  "LedgerMac": { "message": "For Mac" },
+  "LedgerPlayStore": { "message": "For Store" },
+  "LedgerCoins": { "message": "For Coins" },
+  "LedgerProduct": { "message": "For Product" },
+  "LedgerSupport": { "message": "For Support" }
+}
